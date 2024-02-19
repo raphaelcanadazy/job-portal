@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "job-portal-904ac": {
+      "hosting": {
+        "job-portal": [
+          "job-portal-904ac"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "job-portal-904ac"
+  }
+}
